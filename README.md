@@ -3,9 +3,10 @@
 Review branch: latest
 
 URL to Workbooks:   
-Username: lab01, lab02 ... lab10  
-  
-**lab01-lab10:**  
+Username: ougn01, ougn02 ... ougn28  
+
+user: ougn29 and ougn30, reserved for instructor use
+**ougnb01-ougn28:**  
 ## Notebook URL  
     
 [https://.adb.eu-frankfurt-1.oraclecloudapps.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1&database=AIWRSH&redirect_uri=https://.adb.eu-frankfurt-1.oraclecloudapps.com/omlusers/api/oauth2/v1/login&2949083394.1728457609450](https://.adb.eu-frankfurt-1.oraclecloudapps.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1&database=AIWRSH&redirect_uri=https://.adb.eu-frankfurt-1.oraclecloudapps.com/omlusers/api/oauth2/v1/login&2949083394.1728457609450) 
