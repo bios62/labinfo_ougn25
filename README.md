@@ -17,7 +17,7 @@ Due to a bug, you need to add a space after the password in the logon screen
 
 ## APEX URL  
 Workspace name and username are the same  
-[https://.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/apex/workspace-sign-in/oracle-apex-sign-in](https://.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/apex/workspace-sign-in/oracle-apex-sign-in)  
+[https://hikomo1xnp7z6id-ougn25.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/apex/workspace-sign-in/oracle-apex-sign-in](https://hikomo1xnp7z6id-ougn25.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/apex/workspace-sign-in/oracle-apex-sign-in)  
 
 ## Password
 Password: See Whiteboard
