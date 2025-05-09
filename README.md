@@ -14,7 +14,7 @@ user: ougn29 and ougn30, reserved for instructor use
 ## URL to be added in Lab 3
 
 ```
- %python
+%python
 #
 # The URI to the API
 #
