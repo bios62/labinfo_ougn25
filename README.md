@@ -13,7 +13,8 @@ user: ougn29 and ougn30, reserved for instructor use
 
 ## URL to be added in Lab 3
 
-` %python
+```
+ %python
 #
 # The URI to the API
 #
@@ -21,7 +22,7 @@ API_VERSION='V1'
 RESOURCE_URI=('https://hikomo1xnp7z6id-ougn25.adb.eu-frankfurt-1.oraclecloudapps.com/').rstrip('/')
 print(RESOURCE_URI)
 WORKSHOP_ID='ougnxx'
-`
+```
 
 ## URL til Database Actions (utvikler verktøy)
 [https://hikomo1xnp7z6id-ougn25.adb.eu-frankfurt-1.oraclecloudapps.com/ords/sql-developer](https://hikomo1xnp7z6id-ougn25.adb.eu-frankfurt-1.oraclecloudapps.com/ords/sql-developer)
